@@ -1,0 +1,16 @@
+{
+  "name": "cgbi-to-png",
+  "version": "0.0.1",
+  "description": "Convert CGBI files to PNG images",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "dependencies": {
+    "cgbi-to-png": "^1.0.7",
+    "fast-glob": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.9"
+  }
+}
