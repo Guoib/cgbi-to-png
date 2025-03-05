@@ -1,1 +1,1 @@
-# convert-cgbi2png
+# Convert CgBI to PNG
